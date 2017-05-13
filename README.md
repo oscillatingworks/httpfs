@@ -2,7 +2,7 @@ httpfs
 ======
 
 httpfs is a HTTP server that translate requests into basic UNIX files and directories
-operations.
+operations, using native Go system calls.
 
 HTTP->Unix Mappings
 -------------------
